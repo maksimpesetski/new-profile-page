@@ -93,7 +93,6 @@ class RopeDude {
     }
 
     if (letterCheck) this.gameState = 'won';
-    // else letterCheck = true;
   };
 
   getSecretWordPuzzle() {
